@@ -8,3 +8,5 @@ year to year. It then  runs a regression to test whether that swinging predicts 
 **Data:** FRED Trade Policy Uncertainty Index; BEA bilateral FDI flows (U.S.-China)
 
 **Finding:** Higher policy volatility is associated with lower investment
+## Dashboard
+![FDI Dashboard](Dashboard.jpeg)
